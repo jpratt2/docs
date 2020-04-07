@@ -17,7 +17,7 @@ Starting from version 3.4.0, Katalon Recorder provides a plugin platform for peo
 List of Plugins
 ---------------
 
-PHPUnit formatter for Katalon Recorder ([Chrome](https://chrome.google.com/webstore/detail/phpunit-formatter-for-kat/gelokgfkbnkkcdbokielchgpfnphoalk?utm_source=chrome-ntp-icon)) by Jan Esser.
+PHPUnit formatter for Katalon Recorder ([Chrome](https://chrome.google.com/webstore/detail/phpunit-formatter-for-kat/gelokgfkbnkkcdbokielchgpfnphoalk?utm_source=chrome-ntp-icon)) by Jan Esser.  
 Selenide formatter for Katalon Recorder ([Chrome](https://chrome.google.com/webstore/detail/selenide-exporter-for-kat/mkbfcgpbkcaieiajhllpdocjfnfcbmlm)) by John Pratt.
 
 Sample
